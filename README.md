@@ -1,6 +1,6 @@
 # p5-Sort
 
-p5 Sort is a collection of sorting visualisations made using p5 JS. You can check it out [here](frappefortytwo.github.io/p5-sort/).
+p5 Sort is a collection of sorting visualisations made using p5 JS. You can check it out [here](https://frappefortytwo.github.io/p5-Sort/).
 
 Here is a screencap of the project :
 
